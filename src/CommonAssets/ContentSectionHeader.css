@@ -1,0 +1,42 @@
+.Content-section-header {
+    color: #eee;
+    background-color: #423e3b;
+    border-radius: 6px;
+    margin-top: -2px;
+    margin-bottom: -2px;
+}
+
+.Content-row {
+    display: inline-block;
+    flex-direction: row;
+    width: 100%;
+    text-align:center;
+ }
+
+.Content-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Content-zero-size-div {
+    height: 0;
+    width: 0;
+}
+
+.Content-right-justify {
+    float:right;
+}
+
+.Content-img {
+    height: 38px;
+    width: 28.5px;
+}
+
+.Content-img-left {
+    margin-top: -14px;
+}
+
+.Content-img-right {
+    margin-top: -12px;
+    margin-left: -28.5px;
+}

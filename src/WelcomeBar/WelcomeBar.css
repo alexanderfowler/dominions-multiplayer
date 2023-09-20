@@ -1,0 +1,31 @@
+.Welcome-bar {
+    height: 114px;
+    background-color: #ccbe9f;
+    margin-bottom: 27px;
+    display: flex;
+}
+
+.Horse-mountain-container {
+    padding-left: 5.5px;
+    padding-top: 12.5px;
+    display: inline-flex
+}
+
+.Horse-mountain-image {
+    height: 77px;
+    width: 128px;
+}
+
+.Dominions-multiplayer-text-span {
+    font-family: normal Arial,sans-serif;
+    font-size: .67em;
+    color: #55302a;
+    margin-top: 1.3px;
+    margin-left: 15.5px;
+}
+
+.Beta-banner {
+    margin-left: auto;
+    height: 114px;
+    width: 171px;
+}

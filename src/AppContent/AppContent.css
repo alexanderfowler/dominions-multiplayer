@@ -1,0 +1,12 @@
+.App-content {
+    background-image: url(background.png);
+    border: 1px solid #ad9784;
+    border-radius: 2px;
+    /* At minimum, make sure that the content fills up the page. */
+    min-height: 100vh;
+    padding: 20px;
+    font: normal 87.5%/1.4 Arial,sans-serif;
+}
+
+.Paragraph {
+}
